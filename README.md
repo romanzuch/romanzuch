@@ -4,6 +4,7 @@
 
 - 🔭 I'm currently learning Swift with Angela Yu's iOS App Development Udemy course
 - 🌱 I'm currently working on my own landing page via GitHub Pages
+- 🌱 I'm currently working on a car/pedestrian tracker in python 
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ I'm deeply interested in all things code: iOS development, web development, machine learning and data science
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
