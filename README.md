@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Roman and I am a mechanical engineer based in ⛰ Munich, Germany. I am currently working on improving my Python skills and obtaining knowledge in Swift development and web development. 
+## I'm a engineer and developer from Munich.
 
-As I sometimes lack motivation to code on my own, I am always looking for a coding buddy. Participating in an open source project would also be great - I am always searching for *easy* first issues. 
-
-I love using code to solve my little everyday challenges. 
+- 🔭 I'm currently learning Swift with Angela Yu's iOS App Development Udemy course
+- 🌱 I'm currently working on my own landing page via GitHub Pages
+- 💬 I'm always looking for ways to colaborate with other developers
+- ⚡ I'm deeply interested in all things code: iOS development, web development, machine learning and data science
+- 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
 
 <!--
 **romanzuch/romanzuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
