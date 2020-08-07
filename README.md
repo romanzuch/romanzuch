@@ -2,7 +2,7 @@
 
 ## I'm a engineer and developer from Munich.
 
-- 🔭 I'm currently learning web development (and sometimes Swift)
+- 🔭 I'm currently learning web development (and some Swift)
 - 🌱 I'm currently working on my own landing page via GitHub Pages
 - 🌱 I'm currently working on a car/pedestrian tracker in python 
 - 💬 I'm always looking for ways to colaborate with other developers
