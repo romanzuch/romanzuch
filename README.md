@@ -3,8 +3,7 @@
 ## I'm a engineer and developer from Munich.
 
 - 🔭 I'm currently learning web development (and some Swift)
-- 🌱 I'm currently working on my own landing page via GitHub Pages
-- 🌱 I'm currently working on a car/pedestrian tracker in python 
+- 🌱 I'm currently working on my own landing page via GitHub Pages 
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ I'm deeply interested in all things code: iOS development, web development, machine learning and data science
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
