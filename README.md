@@ -8,6 +8,8 @@
 - ⚡ I'm deeply interested in all things code: iOS development, web development, machine learning and data science
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
 
+## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
+
 <!--
 **romanzuch/romanzuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
