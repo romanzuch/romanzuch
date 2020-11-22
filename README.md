@@ -2,8 +2,6 @@
 
 ## I'm a engineer and developer from Munich.
 
-- 🔭 Currently learning Swift (and some web development)
-- 🌱 I'm currently working on my own landing page via GitHub Pages 
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ Deeply interested in all things code: iOS development, web development, machine learning and data science
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
