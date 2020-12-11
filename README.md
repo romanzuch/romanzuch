@@ -3,7 +3,7 @@
 ## I'm a engineer and developer from Munich.
 
 - 💬 I'm always looking for ways to colaborate with other developers
-- ⚡ Deeply interested in all things code: web development,iOS development,  machine learning 
+- ⚡ Deeply interested in all things code: web development, iOS development, machine learning 
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
