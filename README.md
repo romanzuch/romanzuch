@@ -5,6 +5,12 @@
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ Deeply interested in all things code: web development, iOS development, machine learning 
 - 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
+- 😄 Currently creating projects powered by ReactJS.
+
+## ReactJS Projects
+
+- A new year's eve countdown powered by the unsplash API &#8594; [Repository](https://github.com/romanzuch/countdown), [Website](https://romanzuch.github.io/countdown)
+- A map showing known meteor strike sites utilizing JSON data &#8594; [Repository](https://github.com/romanzuch/meteomap), [Website](https://romanzuch.github.io/meteomap)
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
 
