@@ -10,7 +10,7 @@
 ## ReactJS Projects
 
 - A new year's eve countdown powered by the unsplash API &#8594; [Repository](https://github.com/romanzuch/countdown), [Website](https://romanzuch.github.io/countdown)
-- A map showing known meteor strike sites utilizing JSON data &#8594; [Repository](https://github.com/romanzuch/meteomap), [Website](https://romanzuch.github.io/meteomap)
+- A map showing known meteor strike sites utilizing JSON data &#8594; [Repository](https://github.com/romanzuch/meteomap)
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
 
