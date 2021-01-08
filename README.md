@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a engineer and developer from Munich.
+## I'm a engineer and developer based in Berlin.
 
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ Deeply interested in all things code: web development, iOS development, machine learning 
