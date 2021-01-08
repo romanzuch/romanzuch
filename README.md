@@ -4,8 +4,8 @@
 
 - 💬 I'm always looking for ways to colaborate with other developers
 - ⚡ Deeply interested in all things code: web development, iOS development, machine learning 
-- 📫 2020 Goal: Build my own YouTube and/or Twitch Channel 
-- 😄 Currently creating projects powered by ReactJS.
+- 📫 2021 Goal: Build my own YouTube and/or Twitch Channel
+- 😄 Creating projects powered by ReactJS and refreshing Swift knowledge
 
 ## ReactJS Projects
 
