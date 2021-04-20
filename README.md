@@ -9,7 +9,7 @@
 
 ## SwiftUI
 
-- currently building a Todoist clone
+- currently building a todo app called Snooze
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
 
