@@ -9,7 +9,8 @@
 
 ## SwiftUI
 
-- currently building a todo app called Snooze
+- currently building a todo app called Snooze; and re-writing some older projects in SwiftUI
+ - including apps that show you random quotes of a former US president
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
 
