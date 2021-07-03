@@ -9,8 +9,8 @@
 
 ## SwiftUI
 
-- currently cloning the Grover app and building some smaller projects
-- and re-writing some older projects in SwiftUI including apps that show you random quotes of a former US president
+- currently looking for project ideas to deepen my SwiftUI skills
+- trying to create my versions of the projects from 100 Days of SwiftUI 
 
 ## Medium
 
