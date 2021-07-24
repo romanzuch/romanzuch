@@ -11,11 +11,14 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/romanzuchowski/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://roman-zuchowski.medium.com/)
 
+<br><br>
+
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="swift" src="https://img.shields.io/badge/Swift-5.0-brightgreen?style=for-the-badge&logo=swift">
 <img align="left" alt="iOS" src="https://img.shields.io/badge/iOS-14.0-brightgreen?style=for-the-badge&logo=apple">
 
+<br><br>
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
