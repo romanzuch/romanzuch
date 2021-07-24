@@ -1,20 +1,26 @@
 ### Hi there 👋
 
-## I'm a engineer and developer based in Berlin.
+## I'm a self-taught iOS developer based in Berlin.
 
-- 💬 I'm always looking for ways to colaborate with other developers
+- 💬 I'm currently creating cool stuff
 - ⚡ Deeply interested in all things code: iOS development, machine learning, web development
-- 📫 2021 Goal: Build my own YouTube and/or Twitch Channel
 - 😄 Creating projects powered by SwiftUI
 
-## SwiftUI
+## Connect With Me
 
-- currently looking for project ideas to deepen my SwiftUI skills
-- trying to create my versions of the projects from 100 Days of SwiftUI 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/romanzuchowski/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://roman-zuchowski.medium.com/)
 
-## Medium
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="swift" src="https://img.shields.io/badge/Swift-5.0-brightgreen?style=for-the-badge&logo=swift">
+<img align="left" alt="iOS" src="https://img.shields.io/badge/iOS-14.0-brightgreen?style=for-the-badge&logo=apple">
 
-- I just published my first article on medium about the usage of open data and SwiftUI &rarr; [How I have used open data and SwiftUI to explore Covid in Berlin](https://roman-zuchowski.medium.com/how-i-have-used-open-data-and-swiftui-to-explore-covid-in-berlin-1c9b162b5e23)
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
 
