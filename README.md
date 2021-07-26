@@ -22,7 +22,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Create your custom view router with SwiftUI](https://roman-zuchowski.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
