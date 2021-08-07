@@ -22,8 +22,8 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create your custom view router with SwiftUI (2/3)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-2-3-ccde1aca05bf?source=rss-45ad3c868e2------2)
-- [Create your custom view router with SwiftUI (1/3)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
+- [Create your custom view router with SwiftUI (2/X)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-2-3-ccde1aca05bf?source=rss-45ad3c868e2------2)
+- [Create your custom view router with SwiftUI (1/X)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
