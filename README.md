@@ -26,8 +26,6 @@
 - [Create your custom view router with SwiftUI (1/X)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Visit my github.io page &rarr; [romanzuch.github.io](https://romanzuch.github.io/)
-
 <!--
 **romanzuch/romanzuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
