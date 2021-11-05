@@ -14,8 +14,8 @@
 <br><br>
 
 ## Expertise
-<img align="left" alt="swift" src="https://img.shields.io/badge/Swift-5.0-brightgreen?style=for-the-badge&logo=swift">
-<img align="left" alt="iOS" src="https://img.shields.io/badge/iOS-14.0-brightgreen?style=for-the-badge&logo=apple">
+<img align="left" alt="swift" src="https://img.shields.io/badge/Swift-5.5-brightgreen?style=for-the-badge&logo=swift">
+<img align="left" alt="iOS" src="https://img.shields.io/badge/iOS-15.0-brightgreen?style=for-the-badge&logo=apple">
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <br><br>
