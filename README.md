@@ -23,8 +23,8 @@
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [typealias: What is it and how to use it](https://roman-ios.medium.com/typealias-what-is-it-and-how-to-use-it-352a57efdd82?source=rss-45ad3c868e2------2)
-- [Create your custom view router with SwiftUI (2/X)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-2-3-ccde1aca05bf?source=rss-45ad3c868e2------2)
-- [Create your custom view router with SwiftUI (1/X)](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
+- [Create your custom view router with SwiftUI &lpar;2/X&rpar;](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-2-3-ccde1aca05bf?source=rss-45ad3c868e2------2)
+- [Create your custom view router with SwiftUI &lpar;1/X&rpar;](https://roman-ios.medium.com/create-your-custom-view-router-with-swiftui-be7f938d9c33?source=rss-45ad3c868e2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
