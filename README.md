@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a self-taught iOS developer based in Berlin.
+## I'm a self-taught iOS and web-developer based in Berlin.
 
 - 💬 I'm currently creating cool stuff
 - ⚡ Deeply interested in all things code: iOS development, machine learning, web development
